@@ -8,6 +8,7 @@ Schematic
 
 
 Layout
-![Uploading Screenshot 2026-05-17 201009.png…]()
+<img width="511" height="271" alt="Screenshot 2026-05-17 201009" src="https://github.com/user-attachments/assets/68acbe03-739c-44f8-9a8b-c69941410d3b" />
+
 
 
